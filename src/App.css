@@ -1,0 +1,13 @@
+.table{
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+.table__header{
+  background-color: bisque;
+}
+.table__cell{
+  text-align: left;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
